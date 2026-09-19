@@ -1,0 +1,43 @@
+#contador {
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        #imagem {
+            font-size: 100px;
+        }
+
+        body {
+            background-color: blue;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        p {
+            color: white;
+            font-size: 20px;
+        }
+
+        button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+button:nth-of-type(3) {
+    background-color: red;
+}
+      #nome {
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px;
+      }
